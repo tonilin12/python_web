@@ -1,0 +1,45 @@
+[
+    {
+      "id": 2,
+      "name": "Test event 2",
+      "date": "2024-04-15",
+      "organizer": {
+        "name": "abc",
+        "email": "abc@example.com"
+      },
+      "status": "active",
+      "type": "event",
+      "joiners": [],
+      "location": "New York, USA",
+      "max_attendees": 50
+    },
+    {
+      "id": 3,
+      "name": "Test event 3",
+      "date": "2024-05-20",
+      "organizer": {
+        "name": "xyz",
+        "email": "xyz@example.com"
+      },
+      "status": "active",
+      "type": "event",
+      "joiners": [],
+      "location": "London, UK",
+      "max_attendees": 80
+    },
+    {
+      "id": 4,
+      "name": "Test event 4",
+      "date": "2024-06-10",
+      "organizer": {
+        "name": "pqr",
+        "email": "pqr@example.com"
+      },
+      "status": "active",
+      "type": "event",
+      "joiners": [],
+      "location": "Paris, France",
+      "max_attendees": 120
+    }
+  ]
+  
